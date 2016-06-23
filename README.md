@@ -10,6 +10,6 @@ The steps are written assuming that the working machine is Ubuntu/Debian
 
 Note: You might need to install the utility sshpass: apt-get install sshpass
 
-=> Running the Playbook\n
-1) Download the playbook from the repo: setup.yml\n
-2) Run with the following command: sudo ansible-playbook setup.yml
+=> Running the Playbook  
+1) Download the playbook from the repo: setup.yml  
+2) Run with the following command: sudo ansible-playbook setup.yml  
