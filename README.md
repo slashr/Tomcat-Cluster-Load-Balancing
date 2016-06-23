@@ -15,9 +15,9 @@ Note: You might need to install the utility sshpass: apt-get install sshpass
 2) Run with the following command: sudo ansible-playbook setup.yml  
 
 => Post Setup  
-1) Going to http://<server-ip> will load the default Tomcat homepage.  
-2) Going to http://<server-ip>/clusterjsp will load the sample Tomcat application.  
-2) You can view the status of the nodes by navigating to http://<server-ip>/status  
+1) Going to http://(server-ip) will load the default Tomcat homepage.  
+2) Going to http://(server-ip)/clusterjsp will load the sample Tomcat application.  
+2) You can view the status of the nodes by navigating to http://(server-ip)/status  
 
 => Troubleshooting  
 1) In case, the playbook gets stuck at a certain task, interupt the process with a ctrl+c and re-run the playbook.  
