@@ -16,7 +16,7 @@ Note: You might need to install the utility sshpass: apt-get install sshpass
 
 => Post Setup  
 1) Going to http://<server-ip> will load the default Tomcat homepage.  
-2) Goint to http://<server-ip>/clusterjsp will load the sample Tomcat application.  
+2) Going to http://<server-ip>/clusterjsp will load the sample Tomcat application.  
 2) You can view the status of the nodes by navigating to http://<server-ip>/status  
 
 => Troubleshooting  
