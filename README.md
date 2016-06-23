@@ -14,7 +14,8 @@ Note: You might need to install the utility sshpass: apt-get install sshpass
 
 => Running the Playbook  
 1) Download the playbook from the repo: setup.yml  
-2) Run with the following command: sudo ansible-playbook setup.yml  
+2) Run with the following command: sudo ansible-playbook setup.yml --ask-pass  
+3) Enter the password when prompted
 
 ------------------------------------------------------------------------
 
