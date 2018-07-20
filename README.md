@@ -1,5 +1,7 @@
 # Tomcat-Cluster-Load-Balancing
 
+This playbook creates a load-balanced tomcat cluster consisting of two nodes.
+
 The steps are written assuming that the working machine is Ubuntu/Debian
 
 => Setting Up Ansible  
