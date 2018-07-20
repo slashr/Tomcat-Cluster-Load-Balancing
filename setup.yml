@@ -9,7 +9,7 @@
   - name: Install Libapache-mod-jk
     apt: name=libapache2-mod-jk state=present
   - name: Install Mysql
-    apt: name=mysql-server-5.6 state=present
+    apt: name=mysql-server-5.7 state=present
   - name: Load mysql on startup
     command: update-rc.d mysql defaults
   - name: Install Java
